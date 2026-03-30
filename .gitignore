@@ -102,8 +102,7 @@ language_attention/
 language_info/
 raw_images/
 
-# lerobot
-lerobot/
+
 
 # Logs
 *.log
@@ -123,5 +122,13 @@ lerobot/
 Thumbs.db
 
 /libero_eval.py
-/outputs
-/src/analyzer/main_debug.py
+main_debug.py
+run_analyzer_debug.sh
+libero_eval_debug.sh
+libero_eval_debug.py
+run_eval_libero_debug.sh
+run_eval_libero_debug.py
+/projects/lerobot
+/projects/unifolm-vla
+/experiments
+/results
